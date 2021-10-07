@@ -1,0 +1,14 @@
+html {
+  font-family: sans-serif;
+}
+
+button {
+  display: block;
+  margin: 20px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.instruction {
+  font-size: 40px;
+}
